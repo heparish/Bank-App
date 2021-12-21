@@ -2,7 +2,7 @@
 
 ## Description 
 
-This E-Commerce back-end app allows a user to build their database and inventory. Users can add in categories, products, and tags. Users can associate each product to a category and give each product description tags.
+This E-Commerce back-end app allows a user to build their database and inventory. Users can add in categories, products, and tags. Users can associate each product to a category and give each product description tags. This app uses nodejs. Run it in your code editor of choice with node. Postman can be used to test the routes.
 
 ## Contents
 * [Installation](#Installation)
