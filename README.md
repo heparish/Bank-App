@@ -29,7 +29,7 @@ Be sure to enter your mysql username and password in the .env file.
 
 ## Usage 
 
-This app uses Postman so you will need that to run it. In Postman the user can add, change, or delete a category, tag, or product in the database. In order to do this, the user needs to GET /api/products. Use  /api/products/:id for one item. Replace products with tags or categories to GET the other endpoints. Create a new POST request with /api/products and enter the new product/caregories/tags in the Key below. To update and item use PUT /api/products. Adjust valueas as desired. to delete use DELETE /api/products.
+This app used Postman to test. In Postman the user can add, change, or delete a category, tag, or product in the database. In order to do this, the user needs to GET /api/products. Use  /api/products/:id for one item. Replace products with tags or categories to GET the other endpoints. Create a new POST request with /api/products and enter the new product/caregories/tags in the Key below. To update and item use PUT /api/products. Adjust valueas as desired. to delete use DELETE /api/products.
 
 ## Questions
 
